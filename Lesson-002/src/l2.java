@@ -14,7 +14,7 @@ public class l2 {
         double  pi = 3.141592653;
         double eler = 2.7182818284590452; // тут двойка теряется в double
 
-        System.out.println("Число pi равно = " + pi  + "\nЧисло у равно = " + eler + 2 );
+        System.out.println("Число Pi равно = " + pi  + "\nЧисло e равно = " + eler + 2 );
 
         //Задание 3
         //        Используя IntelliJ IDEA, создайте проект.
