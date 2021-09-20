@@ -8,7 +8,8 @@ public class Circle {
         final double PI = 3.1415;
         double r = 2.5, S;
 
-        S = Math.pow(PI*r,2);
+//        S = Math.pow(PI*r,2);
+        S = PI*(Math.pow(r,2));
         System.out.println("Площадь круга с радиусом " + r + "м. = "+ S +" метров");
     }
 }
